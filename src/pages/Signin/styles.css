@@ -1,0 +1,43 @@
+.container-sign-in{
+    justify-content: center;
+}
+
+.sign-in{
+    width: 494px;
+    height: 475px;
+    background-color: #44444D;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    padding: 32px 96px 68px 69px;
+    font-family: 'Roboto' sans-serif;
+}
+
+.sign-in img{
+    height: 68px;
+    width: auto;
+}
+
+.sign-in form{
+    margin-top: 60px;
+}
+
+.sign-in form input{
+    margin-bottom: 16px;
+}
+
+.sign-in form span a {
+    margin-left: 4px;
+}
+
+.sign-in form span, a{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+}
+
+.sign-in form button{
+    margin-top: 60px;
+}
